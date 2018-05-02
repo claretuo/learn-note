@@ -6,31 +6,20 @@
 
 
 > come on, let's go
-  一起进入javascript的基础世界
+ 一起进入javascript的基础世界
 
 
 ## 数据类型
 1. 基本类型
-  
   * undefined
-  
-  * null
-  
-  * boolean
-  
-  * string
-  
+  * null
+  * boolean
+  * [string](string.md)
   * number
-  
   * symbol
 2. 引用类型
-  
   * object
-  
   * function
-  
   * array
-  
   * regExp
-  
   * date
